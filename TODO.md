@@ -2,17 +2,19 @@
 
 - Swap the places of angles and sides and change the capitalization
 
-## IFY
+## IFY 
+### (I might add)
 
-- Show battery
+- Show battery (i dont think so)
 
-## Lot of Work (SAD)
+## Lot of Work 
+### (I want to add but it will be a lot of work and undertaking)
 
 - Optimize
 - Fix implicit multiplication
 - Finish degree parsing in `mathparsing.c`
 
-## Done
+# Done
 
 - Read and parse math expressions - [tinyexpr](https://github.com/codeplea/tinyexpr/tree/master)
 - Fix deleting with multiple lines of numbers
