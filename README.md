@@ -76,6 +76,11 @@ int main() {
 ![Main Menu in Radian Mode Showing Triangle 2](screenshots/mainmenuButInRadModeAndShowingTri2.png)
 *The main menu in radian mode, displaying Triangle 2.*
 
+## Why
+
+The inspiration for creating TriSolve came from my math class. Solving triangles manually seemed too easy to automate and too tedious to commit to memory. So, I decided to spend ten times the effort to write a program that could handle almost everything for me. This project was also somewhat done in spite of my math teacher, who insisted on the manual method and always wanted me to show my work.
+
+
 ## Credits
 
 Developed by Isaac Ruiz Kahle  
