@@ -1,3 +1,7 @@
+### Note: This is full of not fully thought out ideas just jotted down to help me keep track of what I am doing, so there are a lot of spelling mistakes and bad grammar.
+
+
+
 # TODO
 
 - Swap the places of angles and sides and change the capitalization
