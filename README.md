@@ -64,15 +64,17 @@ int main() {
 **Note:** While this program is primarily designed to run on a TI-84 Plus CE calculator, it can also be used as a library for other projects. This is not the intended purpose, but it is a helpful byproduct of the program.
 
 ## Screenshots
+![Main Menu](screenshots/mainmenu.png)
+*The main menu with the preset triangle and the buttons at the bottom.*
 
-![Main Screen](screenshots/main_screen.png)
-*The main screen with the preset triangle and the buttons at the bottom.*
+![Edit Screen](screenshots/editscreen.png)
+*Edit screen where you can modify sides and angles.*
 
-![Edit Mode](screenshots/edit_mode.png)
-*Edit mode where you can modify sides and angles.*
+![Editing a Value](screenshots/editingAValue.png)
+*Editing a specific value in the edit mode.*
 
-![Info Screen](screenshots/info_screen.png)
-*Info screen displaying credits and the perimeter and area of Triangle 1, and if it exists, Triangle 2.*
+![Main Menu in Radian Mode Showing Triangle 2](screenshots/mainmenuButInRadModeAndShowingTri2.png)
+*The main menu in radian mode, displaying Triangle 2.*
 
 ## Credits
 
