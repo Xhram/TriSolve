@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "fontlibc.h": "c",
+        "*.inc": "c",
+        "getcsc.h": "c",
+        "mathprint.h": "c",
+        "globals.h": "c",
+        "stdint.h": "c",
+        "string.h": "c",
+        "debug.h": "c",
+        "stdio.h": "c"
+    }
+}

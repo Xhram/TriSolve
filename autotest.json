@@ -1,0 +1,18 @@
+{
+    "transfer_files":
+    [
+      "C:/Users/isaac/OneDrive/Desktop/Calc/TriSolve/bin/TriSolve.8xp"
+    ],
+    "target":
+    {
+      "name": "TRISOLVE",
+      "isASM": true
+    },
+    "sequence":
+    [
+        "action|launch"
+    ],
+    "hashes":
+    {
+    }
+  }

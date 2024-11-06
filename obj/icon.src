@@ -1,0 +1,27 @@
+	section .icon
+
+	jp	___prgm_init
+	db	$01
+	public ___icon
+___icon:
+	db	$10, $10
+	db	$FF, $FF, $FF, $FF, $FF, $FF, $B5, $B5, $B5, $B5, $FF, $FF, $FF, $FF, $FF, $FF
+	db	$FF, $FF, $FF, $D6, $6C, $4A, $4A, $4A, $4A, $4A, $4A, $74, $DE, $FF, $FF, $FF
+	db	$FF, $FE, $D6, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $E9, $4A, $4A, $D6, $DF, $FF
+	db	$FF, $DE, $4A, $4A, $4A, $4A, $4A, $4A, $E9, $E9, $47, $4A, $4A, $4A, $DE, $FF
+	db	$FF, $74, $4A, $4A, $4A, $4A, $E9, $E9, $4A, $4A, $47, $4A, $4A, $4A, $74, $FF
+	db	$FF, $4A, $4A, $4A, $E9, $E9, $4A, $4A, $4A, $4A, $4A, $47, $4A, $4A, $4A, $FF
+	db	$B5, $4A, $E9, $E9, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $47, $4A, $4A, $4A, $B5
+	db	$B5, $1E, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $47, $4A, $4A, $4A, $B5
+	db	$B5, $4A, $1E, $1E, $1E, $4A, $4A, $4A, $4A, $4A, $4A, $47, $4A, $4A, $4A, $B5
+	db	$B5, $4A, $4A, $4A, $4A, $1E, $1E, $4A, $4A, $4A, $4A, $4A, $47, $4A, $4A, $B5
+	db	$FF, $4A, $4A, $4A, $4A, $4A, $4A, $1E, $1E, $4A, $4A, $4A, $47, $4A, $4A, $FF
+	db	$FF, $74, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $1E, $1E, $1E, $47, $4A, $94, $FF
+	db	$FF, $DE, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $1E, $4A, $DE, $FF
+	db	$FF, $FF, $D6, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $4A, $D6, $FF, $FF
+	db	$FF, $FF, $FF, $DE, $74, $4A, $4A, $4A, $4A, $4A, $4A, $74, $DE, $FF, $FF, $FF
+	db	$FF, $FF, $FF, $FF, $FF, $FF, $B5, $B5, $B5, $B5, $FF, $FF, $FF, $FF, $FF, $FF
+	public ___description
+___description:
+	db	"This program helps you solve missing parts of a triangle,Made By Isaac Ruiz Kahle", 0
+___prgm_init:
