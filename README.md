@@ -24,7 +24,7 @@ TriSolve is a program designed to run on a TI-84 Plus CE calculator. It allows y
 2. [arTIfiCE](https://github.com/YvanTT/arTIfiCE/releases/download/v1.2/arTIfiCE.8xv)
 3. Choose one:
     - [CalcPlex](https://calcplex.com/ti84plusce-jailbreak-tutorial/)
-    - [Cesium](https://github.com/mateoconlechuga/cesium/releases) (download and extract cesium.zip for .8xp file)
+    - [Cesium](https://github.com/mateoconlechuga/cesium/releases) (download and extract cesium.zip for .8xp file)(I think this one works better)
 
 ### Installation Steps
 1. Connect your calculator to your computer
