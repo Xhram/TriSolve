@@ -14689,7 +14689,7 @@ _.str.39:
 	section	.rodata,"a",@progbits
 	private	_.str.40
 _.str.40:
-	db	"No Trinagle Found", 0
+	db	"No Triangle Found", 0
 
 	section	.rodata,"a",@progbits
 	private	_.str.41
@@ -14764,7 +14764,7 @@ _.str.54:
 	section	.rodata,"a",@progbits
 	public	_version
 _version:
-	db	"V:1.0.7", 0, 0, 0
+	db	"V:1.0.8", 0, 0, 0
 
 	section	.rodata,"a",@progbits
 	private	_switch.table.keyPressToChar
