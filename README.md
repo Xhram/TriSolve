@@ -13,8 +13,6 @@ TriSolve is a program designed to run on a TI-84 Plus CE calculator. It allows y
 
 ## How To Install
 
-## Installation
-
 ### Prerequisites
 1. TI-84 Plus CE Calculator
 2. Computer with [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)

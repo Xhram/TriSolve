@@ -10,6 +10,7 @@
 ### (I might add)
 
 - Show battery (i dont think so)
+- Center mono space chars when editing
 
 ## Lot of Work 
 ### (I want to add but it will be a lot of work and undertaking)
