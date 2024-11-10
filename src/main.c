@@ -1126,7 +1126,7 @@ void editTriMenu(){
                 gfx_PrintStringXY("An error occured",15,50);
                 gfx_PrintStringXY("when solving for",15,70);
                 gfx_PrintStringXY("your triangle.",15,90);
-                gfx_PrintStringXY("No Trinagle Found",15,110);
+                gfx_PrintStringXY("No Triangle Found",15,110);
                 gfx_PrintStringXY("Remeber:",15,135);
                 gfx_SetTextScale(1,1);
                 gfx_PrintStringXY("-You need at least 3 variables to solve",15,155);

@@ -11,6 +11,42 @@ TriSolve is a program designed to run on a TI-84 Plus CE calculator. It allows y
 - Display the calculated sides, angles, perimeter, and area of the triangle.
 - Support for both degrees and radians.
 
+## How To Install
+
+### Prerequisites
+1. TI-84 Plus CE Calculator
+2. Computer with [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)
+
+### Required Programs
+1. [Cabri Jr](https://education.ti.com/en/software/details/en/0549ed0d87e54e20aa2baa740269c229/83cabrijr)
+2. [arTIfiCE](https://github.com/YvanTT/arTIfiCE/releases/download/v1.2/arTIfiCE.8xv)
+3. Choose one:
+    - [CalcPlex](https://calcplex.com/ti84plusce-jailbreak-tutorial/)
+    - [Cesium](https://github.com/mateoconlechuga/cesium/releases) (download and extract cesium.zip for .8xp file)(I think this one works better)
+
+### Installation Steps
+1. Connect your calculator to your computer
+2. Open TI Connect CE
+3. Transfer all downloaded files to your calculator
+4. Disconnect your calculator
+
+### First-Time Setup
+1. On your calculator:
+    - Go to Apps
+    - Open Cabri Jr
+    - Access the drop-down menu
+    - Select "Open" and choose arTIfiCE
+    - Press Enter
+2. Navigate to Cesium and press Enter
+3. Complete the setup process
+4. Exit all programs
+
+### Running TriSolve
+1. Go to Apps
+2. Open either Cesium or CalcPlex
+3. Select TriSolve to run the program
+
+
 ## Usage
 
 1. **Start the Program**: When you start the program, it will display a preset triangle of the developer's choice.
