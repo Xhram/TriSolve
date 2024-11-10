@@ -14764,7 +14764,7 @@ _.str.54:
 	section	.rodata,"a",@progbits
 	public	_version
 _version:
-	db	"V:1.0.8", 0, 0, 0
+	db	"V:1.0.9", 0, 0, 0
 
 	section	.rodata,"a",@progbits
 	private	_switch.table.keyPressToChar
