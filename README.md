@@ -119,7 +119,7 @@ The inspiration for creating TriSolve came from my math class. Solving triangles
 
 ## Credits
 
-Developed by Isaac Ruiz Kahle  
+Developed by Xhram 
 Uses Tinyexpr for parsing mathematical expressions  
 Special thanks to the CE Toolchain developers for their help and making this possible.
 
